@@ -15,8 +15,8 @@
 			$this->weeklySalary = $weeklySalary;
 		}
 
-		/*public function getWeeklysalary(){
-			return $this->weeklySalary;*/
+		public function getWeeklysalary(){
+			return $this->weeklySalary;
 		}
 
 	}
