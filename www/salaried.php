@@ -5,8 +5,8 @@
 
 
 	{
-		private $weeklySalary;
-		public function __construct($name, $designation, $amountPaid,$duration){
+		/*private $weeklySalary;*/
+		public function __construct($name, $designation, $amountPaid,$duration, $weeklySalary){
 
 			$this->name = $name;
 			$this->designation = $designation;
@@ -17,7 +17,7 @@
 
 		/*public function getWeeklysalary(){
 			return $this->weeklySalary;*/
-		}
+		/*}*/
 
 	}
 
