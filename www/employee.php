@@ -1,6 +1,6 @@
 <?php
 
-	abstract class Employee(){
+	abstract class Employee{
 
 		protected $_duration;
 		protected $_amount;
