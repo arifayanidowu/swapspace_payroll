@@ -1,9 +1,5 @@
 <?php
 
-<<<<<<< HEAD
-	abstract class Employee{
-=======
->>>>>>> develop
 
 	
 	class Employee {
